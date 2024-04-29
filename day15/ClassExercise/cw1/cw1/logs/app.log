@@ -1,0 +1,6 @@
+2024-04-29 15:47:08,332 myfilelog -- POST Request recieved for /persons wiht data:com.example.cw1.model.Person@967c2c1
+2024-04-29 15:47:30,821 myfilelog -- POST Request recieved for /persons wiht data:com.example.cw1.model.Person@415999e4
+2024-04-29 15:47:38,683 myfilelog -- GET request recieved for /persons
+2024-04-29 15:55:21,953 myfilelog -- POST Request recieved for /persons wiht data:   {"id":1,"firstName":"Monica","lastName":"Jothiramalingam"}
+2024-04-29 15:55:35,833 myfilelog -- POST Request recieved for /persons wiht data:   {"id":2,"firstName":"Krithika","lastName":"Krishnakumar"}
+2024-04-29 15:55:41,420 myfilelog -- GET request recieved for /persons
